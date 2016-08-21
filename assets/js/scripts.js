@@ -266,7 +266,7 @@ $(document).ready(function() {
 
     /*============================================
     Twitter
-    
+    ==============================================*/
     var tweetsLength = $('#twitter-slider').data('tweets-length'),
         widgetID = $('#twitter-slider').data('widget-id');
 
@@ -314,7 +314,6 @@ $(document).ready(function() {
             smoothHeight: false
         });
     }
-    ==============================================*/
     /*============================================
     Contact Map
     ==============================================*/
