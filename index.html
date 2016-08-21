@@ -43,7 +43,13 @@
 	</head>
 
 	<body data-spy="scroll" data-target="#main-nav" data-offset="200">
-
+	<script type="text/javascript">
+    	// Redirecting to secured route
+    	var host = "empty";
+    	if ((host == window.location.host) && (window.location.protocol != "https:"))
+      		window.location.protocol = "https";
+	</script>
+	
 		<!--=== PAGE PRELOADER ===-->
 		<div id="page-loader"><span class="page-loader-gif"></span></div>
 
