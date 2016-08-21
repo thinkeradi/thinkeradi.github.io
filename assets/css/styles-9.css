@@ -423,7 +423,7 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 
 .skills-item{
     position: absolute;
-    width:26%;
+    width:25%;
 	height:0;
     bottom:0;
     border-right: 3px solid #fff;
@@ -436,17 +436,17 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
 }
 
 .skill2{
-    left:26%;
+    left:25%;
     background: #509B9E;
 }
 
 .skill3{
-    left:52%;
+    left:50%;
     background: #334959;
 }
 
 .skill4{
-    left:78%;
+    left:75%;
     background: #B2C7C8;
 }
 
@@ -1418,8 +1418,4 @@ h1,h2,h3,h4,h5,h6,.h1,.h2,.h3,.h4,.h5,.h6{
     .project-item .hover-mask .project-title {
         margin-top:70px;
     }
-}
-
-.home-message{
-	margin-top: 10em !important;
 }
