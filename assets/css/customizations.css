@@ -1,5 +1,5 @@
 .home-message{
-	margin-top: 10em !important;
+	margin-top: 9.5em !important;
 }
 .skills-item{
   width:26%;
@@ -12,4 +12,23 @@
 }
 .skill4{
   left:78%;
+}
+
+.top-margin{
+	margin-top: 3em;
+}
+
+.service-item p{
+	max-width:300px;
+}
+
+.skills-list-item{
+	margin-top: 2em;
+}
+.skills-list-item li{
+	text-align: left;
+	margin-bottom: 1em;
+}
+.lead-sm{
+	font-size: 18px;
 }
